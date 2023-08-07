@@ -1,0 +1,2 @@
+module poke_game {
+}
